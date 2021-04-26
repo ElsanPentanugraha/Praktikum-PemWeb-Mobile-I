@@ -1,0 +1,16 @@
+.tabel-name{
+    text-align: center;
+}
+
+.tabel{
+    margin-left: 29%;
+}
+
+.btn-grafik{
+    margin-top: 10px;
+    margin-left: 47%;
+    background-color: #269aff;
+    color: white;
+    height: 45px;
+    width: 90px;
+}
