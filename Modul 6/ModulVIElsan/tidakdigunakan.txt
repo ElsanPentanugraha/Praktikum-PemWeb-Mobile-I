@@ -1,0 +1,1 @@
+<Thumbnail source={{url: 'item.image'}} />
