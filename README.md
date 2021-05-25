@@ -7,3 +7,6 @@
 + #### Praktikum modul 4 membahas tentang AJAX (Asynchronous JavaScript and XML) yang merupakan penerapan gabungan bahasa pemrograman JavaScript dan XML yang memungkinkan untuk membuat aplikasi web yang dinamis dan interaktif.
 + #### Praktikum modul 5 membahas tentang pengenalan react native dan langkah-langkah untuk melakukan instalasi komponen, package, toolkit, dan aplikasi yang diperlukan untuk membuat sebuah mobile apps dengan framework react native.
 + #### Praktikum modul 6 membahas tentang pembuatan sebuah aplikasi mobile dari react native yang memiliki fitur search filter. Search filter ini akan mencari data tertentu dari flatList yang ada dengan mencocokkan huruf ataupun kata yang dimasukan pada kolom pencarian.
+
+# Responsi Praktikum PemWeb & Mobile I
+Tugas responsi praktikum PemWeb & Mobile I adalah untuk membuat sebuah web-profile perusahaan atau tempat usaha yang ada di kota Palangka Raya. Tugas Responsi ini dikerjakan secara berkelompok yang beranggotakan 6 orang. Web-profile yang dibuat adalah web-profile dari salah satu coffee shop yang bernama D'Corner Coffee. Berikut adalah Link hasil penyelesian tugas pembuatan web-profile dan laporan hasil responsi: https://github.com/MuhammadArifiin/responsi-pemwebmobile1
